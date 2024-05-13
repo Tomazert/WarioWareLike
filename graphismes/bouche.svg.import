@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b31mydjr4gl3c"
-path="res://.godot/imported/valise bleue.svg-297befb23fb2f48c382fc3872de7c329.ctex"
+uid="uid://c5m1jjph5gpa"
+path="res://.godot/imported/bouche.svg-040ecf007ccd8017631a7f65267e5695.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://valise bleue.svg"
-dest_files=["res://.godot/imported/valise bleue.svg-297befb23fb2f48c382fc3872de7c329.ctex"]
+source_file="res://graphismes/bouche.svg"
+dest_files=["res://.godot/imported/bouche.svg-040ecf007ccd8017631a7f65267e5695.ctex"]
 
 [params]
 

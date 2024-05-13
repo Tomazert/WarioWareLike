@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://t2fv5qy6qsch"
-path="res://.godot/imported/pouce en l'air.svg-8aca969a4a497ca5fda74993a26802dd.ctex"
+uid="uid://n17i5l0uqvkt"
+path="res://.godot/imported/tadam.svg-93152caa29fa277140d0934c97ccc902.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://pouce en l'air.svg"
-dest_files=["res://.godot/imported/pouce en l'air.svg-8aca969a4a497ca5fda74993a26802dd.ctex"]
+source_file="res://graphismes/tadam.svg"
+dest_files=["res://.godot/imported/tadam.svg-93152caa29fa277140d0934c97ccc902.ctex"]
 
 [params]
 

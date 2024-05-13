@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bx4ohigsau6or"
-path="res://.godot/imported/sourcils.svg-99d2e0d257dbdfde2080bfab0eaa05cb.ctex"
+uid="uid://cv0xe84ox67of"
+path="res://.godot/imported/valise rouge.svg-30a6aec83bf31d4cb1fa4bb4cc8e394b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sourcils.svg"
-dest_files=["res://.godot/imported/sourcils.svg-99d2e0d257dbdfde2080bfab0eaa05cb.ctex"]
+source_file="res://graphismes/valise rouge.svg"
+dest_files=["res://.godot/imported/valise rouge.svg-30a6aec83bf31d4cb1fa4bb4cc8e394b.ctex"]
 
 [params]
 

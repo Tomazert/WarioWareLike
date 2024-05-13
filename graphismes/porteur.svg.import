@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bgqvbtug2a8d"
-path="res://.godot/imported/valise jaune.svg-30522aa06d10c6725d91f2a68028a071.ctex"
+uid="uid://c2bsoej1pr02l"
+path="res://.godot/imported/porteur.svg-22b0645ac93b7fd45b423b272f0edcf6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://valise jaune.svg"
-dest_files=["res://.godot/imported/valise jaune.svg-30522aa06d10c6725d91f2a68028a071.ctex"]
+source_file="res://graphismes/porteur.svg"
+dest_files=["res://.godot/imported/porteur.svg-22b0645ac93b7fd45b423b272f0edcf6.ctex"]
 
 [params]
 

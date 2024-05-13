@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://n17i5l0uqvkt"
-path="res://.godot/imported/tadam.svg-58c93852a52e9bc44b1c067300d4ace7.ctex"
+uid="uid://b31mydjr4gl3c"
+path="res://.godot/imported/valise bleue.svg-9ce017284b491107b07fe0a4c182aad4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tadam.svg"
-dest_files=["res://.godot/imported/tadam.svg-58c93852a52e9bc44b1c067300d4ace7.ctex"]
+source_file="res://graphismes/valise bleue.svg"
+dest_files=["res://.godot/imported/valise bleue.svg-9ce017284b491107b07fe0a4c182aad4.ctex"]
 
 [params]
 
